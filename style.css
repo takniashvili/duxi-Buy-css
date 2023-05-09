@@ -100,8 +100,10 @@ button {
     width: 295px;
     height: 48px;
     border-radius: 8px;
+    border-none;
     background-color: #3D8168;
     margin-top: 20px;
+   
 
 }
 
